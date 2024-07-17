@@ -38,7 +38,7 @@ The Zomato Dashboard provides a comprehensive analysis of restaurant performance
 
 3. **Detailed City Insights**
    - Sales, gain users, lost users, and orders breakdown by cities.
-
+![Image Description](https://github.com/Bharat74309/Zomato-Dashboard/blob/b41a9c794b0c4139164392863e78a00b7538d976/Screenshot%202024-07-14%20194635.png)
 ## Visualizations
 
 1. **Total Sales Metrics**
