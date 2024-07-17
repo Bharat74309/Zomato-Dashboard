@@ -3,7 +3,7 @@
 ## Overview
 
 The Zomato Dashboard provides a comprehensive analysis of restaurant performance metrics across various cities. It highlights key insights into sales trends, user demographics, and city-wise performance to facilitate data-driven decision-making in the food service industry.
-
+![Image Description](https://github.com/Bharat74309/Zomato-Dashboard/blob/bd4001d323f1be6580b50d8567b5d42b2e05ca66/Screenshot%202024-07-14%20194555.png)
 ## Key Features
 
 ### Overview
