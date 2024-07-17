@@ -18,7 +18,7 @@ The Zomato Dashboard provides a comprehensive analysis of restaurant performance
 
 4. **Top Cities**
    - Top cities based on restaurant quantity.
-
+![Image Description](https://github.com/Bharat74309/Zomato-Dashboard/blob/0d27519b2a0265505a40812bd023af1e7748a7f7/Screenshot%202024-07-14%20194609.png)
 ### User Performance
 1. **User Metrics**
    - Total active users, their ratings, and orders.
