@@ -28,7 +28,7 @@ The Zomato Dashboard provides a comprehensive analysis of restaurant performance
 
 3. **Age Distribution**
    - Distribution of users across different age groups.
-
+![Image Description](https://github.com/Bharat74309/Zomato-Dashboard/blob/3a9876f8d4e539753a0089b28fefe2f4cde056b1/Screenshot%202024-07-14%20194623.png)
 ### City Performance
 1. **City Metrics**
    - Amount, quantity, ratings, and orders by cities.
